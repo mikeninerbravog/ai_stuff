@@ -1,1 +1,3 @@
 AI Stuff
+No time to document... 
+this is only a staging dump from a test that I made it 
